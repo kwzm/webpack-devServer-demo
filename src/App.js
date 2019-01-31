@@ -1,9 +1,10 @@
 import React from 'react'
+import './app.css'
 
 const App = () => {
   return (
     <div>
-      <h1>Webpack devServer demo</h1>
+      <h1>Webpack devServer demoxxx</h1>
     </div>
   )
 }
